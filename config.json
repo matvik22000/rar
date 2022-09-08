@@ -1,0 +1,4 @@
+{
+  "logger": "info.log",
+  "debugger": "debug.log"
+}

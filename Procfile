@@ -1,0 +1,1 @@
+web: gunicorn --chdir server -k flask_sockets.worker main:app

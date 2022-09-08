@@ -1,0 +1,7 @@
+
+2020-02-09 16:54:00,346;INFO;test_logger: Informational message
+2020-02-09 16:54:00,346;ERROR;test_logger: An error has happened!
+[2020-02-09 16:55:04,336]INFO in test_logger: Informational message
+[2020-02-09 16:55:04,336]ERROR in test_logger: An error has happened!
+2020-02-09 16:55:46,435 INFO [test_logger]: Informational message
+2020-02-09 16:55:46,436 ERROR [test_logger]: An error has happened!
